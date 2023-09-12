@@ -559,6 +559,18 @@ lottie-player {
 	
 }
 
+.boton5 {
+	background: linear-gradient(102deg, #0099ff 40%, #0099ff 60%);
+	color: #fffffff1;
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	padding: 3px 4%;
+	border-radius: 10px;
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, .5);
+	
+}
+
 .lugares .siderh3{
 	position: relative;
 }
